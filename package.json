@@ -1,0 +1,19 @@
+{
+  "name": "bank-statement-rundown",
+  "version": "1.0.0",
+  "description": "A simple bank statement rundown",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "author": "Marcin Wojtach",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  },
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "dependencies": {
+    "feather-icons": "^4.29.0"
+  }
+}

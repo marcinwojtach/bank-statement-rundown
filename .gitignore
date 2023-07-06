@@ -1,0 +1,16 @@
+logs
+*.log
+npm-debug.log*
+package-lock.json
+
+node_modules/
+
+.npm
+
+.eslintcache
+
+.env
+
+dist/
+.cache/
+.parcel-cache/
